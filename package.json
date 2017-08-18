@@ -15,7 +15,8 @@
     "ndarray": "^1.0.18",
     "nextgen-events": "^0.10.0",
     "string-kit": "^0.6.1",
-    "tree-kit": "^0.5.26"
+    "tree-kit": "^0.5.26",
+    "get-cursor-position": "^1.0.5"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
