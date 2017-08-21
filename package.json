@@ -16,7 +16,7 @@
     "nextgen-events": "^0.10.0",
     "string-kit": "^0.6.1",
     "tree-kit": "^0.5.26",
-    "get-cursor-position": "^1.0.5"
+    "blessed":"^0.1.81"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
